@@ -1,2 +1,0 @@
-class Gram < ApplicationRecord
-end
