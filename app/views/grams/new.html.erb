@@ -1,6 +1,9 @@
+<br />
 <h1>New Gram</h1>
-
-<%= simple_form_for @gram do |f| %>
-    <%= f.input :message %>
-    <%= f.submit "Post!" %>
-<% end %>
+<div class="booyah-box col-10 offset-1">
+    <%= simple_form_for @gram do |f| %>
+        <%= f.input :message %>
+        <%= f.input :picture %>
+        <br />
+        <%= f.submit "Post!" %>
+    <% end %>
