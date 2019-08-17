@@ -18,6 +18,7 @@ Grammable is an Instagram clone that was built using industry-standard, test-dri
 - Heroku
 - Bootstrap
 - Devise
+- CSS
 - FactoryBot
 - Carrierwave
 - Rspec
