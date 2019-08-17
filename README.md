@@ -1,24 +1,35 @@
-# README
+# Grammable
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Grammable is an Instagram clone that was built using industry-standard, test-driven development following numerous red/green/refactor cycles.
 
-Things you may want to cover:
+# Grammable Deployed
 
-* Ruby version
+- https://grammable-drew-myers.herokuapp.com/
 
-* System dependencies
+# Screenshots
 
-* Configuration
 
-* Database creation
 
-* Database initialization
+# Tech/Framework Used
 
-* How to run the test suite
+- Git
+- Github
+- Postgresql
+- Heroku
+- Bootstrap
+- Devise
+- FactoryBot
+- Carrierwave
+- Rspec
 
-* Services (job queues, cache servers, search engines, etc.)
+# Tests
 
-* Deployment instructions
+To run tests run bundle exec rspec to see any failing tests.
 
-* ...
+# How to contribute
+
+If interested in contributing clone my repo: Add a pull request, or open an issue. 
+
+# Credit
+
+- Drew Myers https://www.linkedin.com/in/drew-myers-70788a183/
