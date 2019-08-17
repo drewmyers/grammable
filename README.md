@@ -8,7 +8,7 @@ Grammable is an Instagram clone that was built using industry-standard, test-dri
 
 # Screenshots
 
-
+![grammable](https://user-images.githubusercontent.com/48326186/63217051-3e91f800-c10d-11e9-9f42-702489b0bc52.png)
 
 # Tech/Framework Used
 
