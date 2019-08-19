@@ -12,7 +12,7 @@ Grammable is an Instagram clone that was built using industry-standard, test-dri
 
 # Tech/Framework Used
 
-- Ruby on Rails 2.5.1
+- Ruby on Rails 2.5.3
 - Git
 - Github
 - Postgresql
