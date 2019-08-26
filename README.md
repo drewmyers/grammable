@@ -24,6 +24,13 @@ Grammable is an Instagram clone that was built using industry-standard, test-dri
 - Carrierwave
 - Rspec
 
+# Installation
+
+- Clone Repository
+- Run Bundle Install
+- Run rake db:create
+- Run rake db:migrate
+
 # Tests
 
 To run tests run bundle exec rspec to see any failing tests.
